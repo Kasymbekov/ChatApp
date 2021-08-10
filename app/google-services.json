@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "583890842386",
+    "project_id": "chat-application-9251f",
+    "storage_bucket": "chat-application-9251f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583890842386:android:5255a043fda98c3e4a79cb",
+        "android_client_info": {
+          "package_name": "com.nursultan.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583890842386-1tsq723s8nog1idje65r5pitptifj8ic.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nursultan.chatapp",
+            "certificate_hash": "78bba2bba84f242838f63cf7ea0f3458b10dc4b5"
+          }
+        },
+        {
+          "client_id": "583890842386-2vb2jkfn055usarcum8gv8kqperfdfm2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTAV--qECb65f0TRR1zAhK6JZZplwrfas"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "583890842386-2vb2jkfn055usarcum8gv8kqperfdfm2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
